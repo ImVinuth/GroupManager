@@ -216,12 +216,10 @@ If you enjoying using me and/or would like to help me survive in the wild, hit /
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
 
 Main commands available:
- - /start: Cool command to check if the bot is alive or not
+ - /start: Cool command to check if the bot is alive or not.
  - /help: PM's you this message.
  - /help <module name>: PM's you info about that module.
- - /donate: information about how to donate!
- - /lang: Change bot language
- - Hit settings button in home menu to get your chat's settings.
+ - /lang: Change bot language.
    {}
    """,
 
