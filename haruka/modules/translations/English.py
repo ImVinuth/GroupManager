@@ -221,9 +221,7 @@ Main commands available:
  - /help <module name>: PM's you info about that module.
  - /donate: information about how to donate!
  - /lang: Change bot language
- - /settings:
-   - in PM: will send you your settings for all supported modules.
-   - in a group: will redirect you to pm, with all that chat's settings.
+ - Hit settings button in home menu to get all your chat's settings.
    {}
    """,
 
