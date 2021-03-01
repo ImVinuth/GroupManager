@@ -562,9 +562,8 @@ __help__ = """
  - /paste: Create a paste or a shortened url using [dogbin](https://del.dog)
  - /getpaste: Get the content of a paste or shortened url from [dogbin](https://del.dog)
  - /pastestats: Get stats of a paste or shortened url from [dogbin](https://del.dog)
- - /ud: Type the word or expression you want to search. For example /ud Gay
+ - /ud: Type the word or expression you want to search. For example /ud apple
  - /removebotkeyboard: Got a nasty bot keyboard stuck in your group?
- - /exec <language> <code> [/stdin <stdin>]: Execute a code in a specified language. Send an empty command to get the supported languages.
  - /wiki <keywords>: Get wikipedia articles just using this bot!
 """
 
