@@ -555,13 +555,12 @@ __help__ = """
  - /stickerid: reply to a sticker to me to tell you its file ID.
  - /getsticker: reply to a sticker to me to upload its raw PNG file.
  - /markdownhelp: quick summary of how markdown works in telegram - can only be called in private chats.
-
  - /git: Returns info about a GitHub user or organization.
  - /repo: Return the GitHub user or organization repository list (Limited at 40)
  - /lyrics: Find your favorite songs lyrics!
- - /paste: Create a paste or a shortened url using [dogbin](https://del.dog)
- - /getpaste: Get the content of a paste or shortened url from [dogbin](https://del.dog)
- - /pastestats: Get stats of a paste or shortened url from [dogbin](https://del.dog)
+ - /paste: Create a paste or a shortened url using dogbin.
+ - /getpaste: Get the content of a paste or shortened url from dogbin.
+ - /pastestats: Get stats of a paste or shortened url from dogbin.
  - /ud: Type the word or expression you want to search. For example /ud apple
  - /removebotkeyboard: Got a nasty bot keyboard stuck in your group?
  - /wiki <keywords>: Get wikipedia articles just using this bot!
