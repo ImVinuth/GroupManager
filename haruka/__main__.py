@@ -22,15 +22,15 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-You know how hard it is sometimes to manage group so here is the solution for you 😌
+You know how hard it is sometimes to manage group so here is the solution for you.
 
-I'm group manager bot and Anti-spam Defender 🚫
+I'm group manager bot and Anti-spam Defender.
 
 Activate Anti-spam protection in your group by `/antispam on` cmd.
 
-Made by [Janindu 🇱🇰](t.me/imjanindu) using Aditya's source code.
+Made by [Janindu 🇱🇰](t.me/imjanindu) based on xditya repo.
 
-Deploy a bot like me [now!](www.github.com/ImJanindu/GroupManager)
+Deploy a bot like me [here](www.github.com/ImJanindu/GroupManager).
 
 Hit /help or Help button below to find out more about how to use me to my full potential.
 
