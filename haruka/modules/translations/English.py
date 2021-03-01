@@ -221,7 +221,7 @@ Main commands available:
  - /help <module name>: PM's you info about that module.
  - /donate: information about how to donate!
  - /lang: Change bot language
- - Hit settings button in home menu to get all your chat's settings.
+ - Hit settings button in home menu to get your chat's settings.
    {}
    """,
 
