@@ -231,7 +231,7 @@ def makepack_internal(msg, user, png_sticker, emoji, bot, packname, packnum):
 __help__ = """
 - /stickerid: reply to a sticker to me to tell you its file ID.
 - /getsticker: reply to a sticker to me to upload its raw PNG file.
-- /kang: reply to a sticker to add it to your pack.
+- /kang: reply to a image and create stickers.
 """
 
 __mod_name__ = "Stickers"
