@@ -28,9 +28,9 @@ I'm group manager bot and Anti-spam Defender.
 
 Activate Anti-spam protection in your group by `/antispam on` cmd.
 
-Made by [Janindu 🇱🇰](t.me/imjanindu) based on xditya repo.
+Made by [Vinuth](t.me/VinuthPMBot) Based on Vinuth Bots.
 
-Deploy a bot like me [here](www.github.com/ImJanindu/GroupManager).
+Deploy a bot like me [here](www.github.com).
 
 Hit /help or Help button below to find out more about how to use me to my full potential.
 
